@@ -13,3 +13,7 @@ __pycache__/
 
 # Ignore virtual environment (if you're using one)
 venv/
+
+# credentials
+credentials.json
+token.json
